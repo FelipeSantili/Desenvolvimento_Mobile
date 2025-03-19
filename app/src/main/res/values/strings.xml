@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Atividade1</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="e_mail">E-mail</string>
+    <string name="senha_usu" />
+    <string name="teste_login">Teste Login</string>
+    <string name="lembrar_senha">Lembrar senha?</string>
+    <string name="esqueci_senha">Esqueceu a senha?</string>
+</resources>
