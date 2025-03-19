@@ -1,7 +1,7 @@
 # Atividades 1 de Desenvolvimento Web
 
-# Desenvolvimento para Dispositivos Móveis
-# Exercício - Interfaces Gráficas com Layouts e Views
+<h4>Desenvolvimento para Dispositivos Móveis</h4>
+<h4>Exercício - Interfaces Gráficas com Layouts e Views</h4> 
 
 <p><strong>Profª. Juliana</strong></p>
 
